@@ -1,0 +1,60 @@
+1604745758386	geckodriver	INFO	Listening on 127.0.0.1:52843
+1604745761442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MACHIL~1.L\\AppData\\Local\\Temp\\rust_mozprofileHMwKt6"
+1604745807392	geckodriver	INFO	Listening on 127.0.0.1:52944
+1604745810432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MACHIL~1.L\\AppData\\Local\\Temp\\rust_mozprofileSaXojJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604745812125	Marionette	INFO	Listening on port 52952
+1604745812468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604745814205	Marionette	INFO	Stopped listening on port 52952
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604745834407	geckodriver	INFO	Listening on 127.0.0.1:53010
+1604745837456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MACHIL~1.L\\AppData\\Local\\Temp\\rust_mozprofileLTfIs6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604745839178	Marionette	INFO	Listening on port 53018
+1604745839475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604746399569	Marionette	INFO	Stopped listening on port 53018
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MACHIL~1.L\\AppData\\Local\\Temp\\rust_mozprofile6VO2K1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604746001806	Marionette	INFO	Listening on port 53271
+1604746002248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/app.4666d10327cd1dac6da3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4666d10327cd1dac6da3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4666d10327cd1dac6da3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4666d10327cd1dac6da3.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 36708, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1604746267704	Marionette	INFO	Stopped listening on port 53271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+RROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/app.4666d10327cd1dac6da3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4666d10327cd1dac6da3.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604746388503	Marionette	INFO	Stopped listening on port 53688
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
